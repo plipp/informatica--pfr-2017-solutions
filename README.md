@@ -1,0 +1,1 @@
+# Solutions for Informatica-2017 'Python for Research' Workshop #
